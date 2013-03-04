@@ -4,6 +4,20 @@ CLA Summit Presentation - Austin - March 2013
 
 Is your application deployment tedious or brittle? How is your customer's installation UX? Just as important, how's your DevX creating a release? Jack Dunaway, LabVIEW Champion and Certified LabVIEW Architect, talks about the business and human benefits of automating your deployment process for LabVIEW applications. We’ll cover specific technical tips to improve your deployment strategy, and you'll come away with a template to download to kickstart your deployment automation.
 
+Helpful Links:
+------------------------------
+Inno Setup, free, open source setup authoring:
+http://www.jrsoftware.org/isinfo.php
+
+Amazon AWS SDK for .NET
+http://aws.amazon.com/sdkfornet/
+
+Segment the Run-Time Engine to minimize installer footprint:
+http://wirebird.co/Minify-RTE
+
+Wirebird Labs Deploy: polished, powerful deployment automation
+https://wirebirdlabs.com/deploy
+
 Getting started with this demo
 ------------------------------
 1. Clone the repo onto your local machine; alternatively, download the zipball here: https://github.com/wirebirdlabs/CLA-Summit-2013-Austin/archive/master.zip
