@@ -1,4 +1,4 @@
-Deployment Automation and Release Engineering in Labview
+Deployment Automation and Release Engineering in LabVIEW
 =================================================================
 CLA Summit Presentation - Austin - March 2013
 
