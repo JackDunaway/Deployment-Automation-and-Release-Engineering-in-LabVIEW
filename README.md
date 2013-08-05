@@ -1,8 +1,16 @@
 Deployment Automation and Release Engineering in LabVIEW
 =================================================================
-CLA Summit Presentation - Austin - March 2013
+
+Summary
+-------
 
 Is your application deployment tedious or brittle? How is your customer's installation UX? Just as important, how's your DevX creating a release? Jack Dunaway, LabVIEW Champion and Certified LabVIEW Architect, talks about the business and human benefits of automating your deployment process for LabVIEW applications. We’ll cover specific technical tips to improve your deployment strategy, and you'll come away with a template to download to kickstart your deployment automation.
+
+Rendetions of this project presented at:
+----------------------------------------
+* NIWeek 2013 - Austin, TX - August 2013
+* American CLA Summit Presentation - Austin, TX - March 2013
+* LabVIEW Architect's Forum - Austin, TX - February 2013
 
 Helpful Links:
 ------------------------------
